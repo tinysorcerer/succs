@@ -1,7 +1,3 @@
-# react-parcel-template
+# SUCCS
 
-## setup
-
-`yarn install`
-
-`yarn start`
+succs.org specializes in the sale of 3D printed succulent planters.
